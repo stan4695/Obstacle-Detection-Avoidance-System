@@ -18,7 +18,7 @@ This system could be integrated into autonomous robots, cars, or drones for obst
 ## System Components
 - **Intel Galileo Gen 2 Board**: The brain of the system, used to control sensors and motors.
 - **Ultrasonic Sensors (HC-SR04)**: Used to measure the distance between the system and obstacles.
-- **DC Motors**: Controlled by the Intel Galileo Gen 2 to adjust the movement of the robot.
+- **Car Chassis with DC Motors**: Controlled by the Intel Galileo Gen 2 to adjust the movement of the robot.
 - **NPN Transistor**: Used as a switch to control the motors.
 - **Capacitors and Diodes**: To filter noise and protect components.
 - **9V Battery**: To power Arduino system.

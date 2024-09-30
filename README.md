@@ -2,6 +2,9 @@
 
 This project is a university-level initiative aimed at designing and implementing a collision avoidance system using a Intel Galileo Gen 2 microcontroller and any other components on our choice (transistors, resistors, capacitors, diodes, proximity or ultrasonic sensors, car chassis with motors etc.). The system is capable of detecting obstacles in its path and change direction to avoid them.
 
+![collision-avoidance-system-img](https://github.com/user-attachments/assets/e762b25a-b2ee-43e6-a58a-d9b5c695be9e)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [System Components](#system-components)
@@ -31,6 +34,9 @@ The system works using three ultrasonic sensors positioned on the front and side
 
 ### Electrical Schematic
 ![Electrical Schematic](https://github.com/user-attachments/assets/f5588e00-5b60-475f-9aa3-a696f3e11562)
+
+### Flowchart
+![Code Flowchart](https://github.com/user-attachments/assets/4b5bbd00-0c83-4d03-b9e1-4c181d99923f)
 
 
 ## How It Works
